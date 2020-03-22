@@ -1,13 +1,13 @@
 # How to make unix executable
 -------- make all
 
-# Clean all *.o file
+# Clean all *.o files
 -------- make clean
 
 # How to run 2d SWE FV solver
 -------- ./2DFV > output.txt
 
-# What is ./main and main.dSYM?
+# What are ./main and main.dSYM?
 -------- They are produced by VScode debugging tool, with that said,
 -------- ./main is also executable but might run a little bit slower than ./2DFV
 
